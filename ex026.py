@@ -1,0 +1,5 @@
+n = str(input('Informa uma frase qualquer: ').strip())
+a = n.split()
+n = ' '.join(a)
+print('Aparecem {} vezes a letra "A" em sua frase, seja ela maiuscula ou minuscula.'.format(n.upper().count('A')))
+print('Na primera vez aparece na posição {} e na segunda vez na posição {}'.format((n.upper().find('A'))+1, n.upper().rfind('A')+1))

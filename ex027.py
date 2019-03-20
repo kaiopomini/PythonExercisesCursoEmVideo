@@ -1,0 +1,5 @@
+n = str(input('informe seu nome completo'))
+nsplit = n.split()
+njoin = ' '.join(nsplit)
+print('Seu primeiro nome é: {}'.format(nsplit[0]))
+print('Seu ultimo nome é: {}'.format(nsplit[njoin.count(' ')]))
