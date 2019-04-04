@@ -1,6 +1,6 @@
 while True:
     numeros = ('zero', 'um', 'dois', 'tres', 'quatro', 'cinco', 'seis', 'sete', 'oito', 'nove', 'dez', 'onze', 'doze',
-           'treze', 'quatorze', 'quinze', 'dezesseis', 'dezesete', 'dezoito', 'dezenove', 'vinte')
+               'treze', 'quatorze', 'quinze', 'dezesseis', 'dezesete', 'dezoito', 'dezenove', 'vinte')
     while True:
         opc = int(input('Informa um numero de 0 a 20: '))
         if 0 <= opc <= 20:
@@ -13,5 +13,3 @@ while True:
             break
     if continuar == 'N':
         break
-
-
