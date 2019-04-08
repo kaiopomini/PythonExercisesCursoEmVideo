@@ -1,3 +1,7 @@
+'''Exercício Python 036: Escreva um programa para aprovar o empréstimo bancário para a compra de uma casa. Pergunte o
+ valor da casa, o salário do comprador e em quantos anos ele vai pagar. A prestação mensal não pode exceder 30%
+ do salário ou então o empréstimo será negado.'''
+
 vcasa = float(input('Informe o valor da CASA a ser adquiridas: '))
 sal = float(input('Informe o valor do SALÁRIO do contratante: '))
 tempoAnos = int(input('Informe o tempo em ANOS que o contrato será adimplido: '))

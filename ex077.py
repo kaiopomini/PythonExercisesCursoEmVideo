@@ -1,3 +1,6 @@
+'''Exercício Python 077: Crie um programa que tenha uma tupla com várias palavras (não usar acentos). Depois disso,
+ você deve mostrar, para cada palavra, quais são as suas vogais.'''
+
 # 2.0 version
 palavras = ('paz', 'jix', 'league', 'teste', 'Som', 'paçoca', 'agua', 'suco', 'sfx')
 for i in palavras:

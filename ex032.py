@@ -1,3 +1,5 @@
+'''Exercício Python 032: Faça um programa que leia um ano qualquer e mostre se ele é bissexto.'''
+
 n = int(input('Informe um ANO: '))
 if n % 4 == 0 and n % 100 != 0 or n % 400 == 0:
     print('{} é Bissexto!'.format(n))

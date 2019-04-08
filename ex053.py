@@ -1,3 +1,6 @@
+'''Exercício Python 053: Crie um programa que leia uma frase qualquer e diga se ela é um palíndromo, desconsiderando os
+ espaços.'''
+
 frase = input('Informe uma frase: ')
 fraseSemEspaço = frase.upper().split()
 fraseSemEspaço =''.join(fraseSemEspaço)
@@ -10,5 +13,3 @@ if fraseSemEspaço == fraseContraria:
     print('A frase "{}" é um polídromo'.format(frase))
 else:
     print('A frase"{}" não é um polídromo'.format(frase))
-
-

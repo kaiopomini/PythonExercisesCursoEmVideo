@@ -1,3 +1,9 @@
+'''Exercício Python 071: Crie um programa que simule o funcionamento de um caixa eletrônico. No início, pergunte ao
+usuário qual será o valor a ser sacado (número inteiro) e o programa vai informar quantas cédulas de cada valor serão entregues.
+OBS: considere que o caixa possui cédulas de R$50, R$20, R$10 e R$1.'''
+
+# resolução 2
+
 print('=' * 30)
 print(f'{"BANCO CEV":^30}')
 print('=' * 30)
@@ -25,7 +31,7 @@ print('=' * 30)
 print('Volte sempre ao BANCO CEV! Tenha um bom dia!')
 
 '''
-#resolução 1
+# resolução 1
 
 saque = aux = int(input('Informe o valor a ser sacado: '))
 cont50 = cont20 = cont10 = cont1 = 0

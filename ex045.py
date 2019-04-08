@@ -1,3 +1,5 @@
+'''Exercício Python 045: Crie um programa que faça o computador jogar Jokenpô com você.'''
+
 import random
 opc = int(input('1 = PEDRA\n2 = PAPEL\n3 = TESOURA\nInforme sua escolha conforme as opções acima: '))
 opcPc = random.randint(1,3)

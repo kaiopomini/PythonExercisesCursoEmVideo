@@ -1,3 +1,11 @@
+'''Exercício Python 059: Crie um programa que leia dois valores e mostre um menu na tela:
+[ 1 ] somar
+[ 2 ] multiplicar
+[ 3 ] maior
+[ 4 ] novos números
+[ 5 ] sair do programa
+Seu programa deverá realizar a operação solicitada em cada caso.'''
+
 numero1 = float(input('Informe o numero 1: '))
 numero2 = float(input('Informe o numero 2: '))
 opc = -1
