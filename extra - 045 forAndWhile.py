@@ -58,5 +58,3 @@ print('\n\nA MAIOR quantidade de acertos foram {} de {} perguntas'.format(maior,
 print('A MENOR quantidade de acertos foram {} de {} perguntas'.format(menor, contadorGabarito))
 print('O total de alunos que utilizaram o sistema foi de {}'.format(alunos))
 print('A média da turma foi de {:.1f}'.format(media/alunos))
-
-

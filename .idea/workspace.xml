@@ -1,85 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e292f5c1-a1ec-49e3-97db-8e979256489e" name="Default Changelist" comment="ex074 to ex077 (end of tuples)">
-      <change afterPath="$PROJECT_DIR$/ex078.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex079.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex080.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex081.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex082.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex083.py" afterDir="false" />
+    <list default="true" id="e292f5c1-a1ec-49e3-97db-8e979256489e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ex084.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex085.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex005.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex005.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex006.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex006.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex007.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex007.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex008.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex008.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex009.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex009.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex010.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex010.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex011.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex011.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex012.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex012.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex013.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex013.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex016.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex016.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex017.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex017.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex018.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex018.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex019.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex019.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex020.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex020.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex021.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex021.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex022.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex022.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex023.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex023.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex024.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex024.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex025.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex025.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex026.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex026.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex027.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex027.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex028.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex028.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex029.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex029.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex030.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex030.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex031.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex031.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex032.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex032.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex033.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex033.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex034.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex034.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex035.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex035.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex036.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex036.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex037.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex037.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex038.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex038.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex039.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex039.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex040.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex040.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex041.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex041.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex042.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex042.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex043.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex043.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex044.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex044.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex045.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex045.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex046.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex046.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex047.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex047.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex048.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex048.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex049.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex049.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex050.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex050.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex051.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex051.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex052.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex052.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex053.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex053.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex054.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex054.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex055.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex055.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex056.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex056.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex057.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex057.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex058.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex058.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex059.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex059.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex060.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex060.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex061.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex061.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex062.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex062.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex063.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex063.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex064.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex064.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex065.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex065.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex066.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex066.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex067.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex067.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex068.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex068.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex069.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex069.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex070.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex070.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex071.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex071.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex072.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex072.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex073.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex073.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex074.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex074.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex075.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex075.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex076.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex076.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex077.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex077.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extra - 045 forAndWhile.py" beforeDir="false" afterPath="$PROJECT_DIR$/extra - 045 forAndWhile.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -90,85 +16,21 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ex075.py">
+        <entry file="file://$PROJECT_DIR$/ex084.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+            <state relative-caret-position="367">
+              <caret line="35" column="33" lean-forward="true" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ex076.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ex077.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ex078.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ex085.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
               <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ex079.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="43" lean-forward="true" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ex080.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="55" lean-forward="true" selection-start-line="19" selection-start-column="55" selection-end-line="19" selection-end-column="55" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ex081.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="52" selection-start-line="3" selection-start-column="52" selection-end-line="3" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ex082.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ex083.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/extra - 045 forAndWhile.py">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -186,9 +48,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ex032.py" />
-        <option value="$PROJECT_DIR$/ex033.py" />
-        <option value="$PROJECT_DIR$/ex034.py" />
         <option value="$PROJECT_DIR$/ex035.py" />
         <option value="$PROJECT_DIR$/ex036.py" />
         <option value="$PROJECT_DIR$/ex037.py" />
@@ -237,6 +96,9 @@
         <option value="$PROJECT_DIR$/ex080.py" />
         <option value="$PROJECT_DIR$/ex081.py" />
         <option value="$PROJECT_DIR$/ex082.py" />
+        <option value="$PROJECT_DIR$/extra - 045 forAndWhile.py" />
+        <option value="$PROJECT_DIR$/ex085.py" />
+        <option value="$PROJECT_DIR$/ex084.py" />
       </list>
     </option>
   </component>
@@ -269,6 +131,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -283,7 +146,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ex029">
+  <component name="RunManager" selected="Python.ex085">
     <configuration name="ex029" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonExercisesCursoEmVideo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -297,48 +160,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex029.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ex080" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonExercisesCursoEmVideo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex080.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ex081" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonExercisesCursoEmVideo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex081.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -389,13 +210,55 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="ex084" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonExercisesCursoEmVideo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex084.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex085" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonExercisesCursoEmVideo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex085.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ex085" />
+        <item itemvalue="Python.ex084" />
         <item itemvalue="Python.ex029" />
         <item itemvalue="Python.ex083" />
         <item itemvalue="Python.ex082" />
-        <item itemvalue="Python.ex081" />
-        <item itemvalue="Python.ex080" />
       </list>
     </recent_temporary>
   </component>
@@ -431,27 +294,33 @@
       <option name="project" value="LOCAL" />
       <updated>1554644322839</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="ex078 to ex083 (lists part 1)&#10;&#10;Added questions to all excercises">
+      <created>1554693859794</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1554693859794</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17913593" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49596122" visible="true" weight="0.11011591" />
+      <window_info id="Structure" order="1" sideWeight="0.50403875" side_tool="true" weight="0.11011591" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32936078" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32936078" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32936078" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -461,23 +330,11 @@
     <MESSAGE value="ex072" />
     <MESSAGE value="ex073" />
     <MESSAGE value="ex074 to ex077 (end of tuples)" />
-    <option name="LAST_COMMIT_MESSAGE" value="ex074 to ex077 (end of tuples)" />
+    <MESSAGE value="ex078 to ex083 (lists part 1)&#10;&#10;Added questions to all excercises" />
+    <MESSAGE value="ex084 to ex085 (lists part 2)" />
+    <option name="LAST_COMMIT_MESSAGE" value="ex084 to ex085 (lists part 2)" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ex035.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex034.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ex036.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -756,43 +613,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ex075.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+        <state relative-caret-position="799">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ex076.py">
+    <entry file="file://$PROJECT_DIR$/extra - 045 forAndWhile.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="382">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ex077.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/ex083.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/ex078.py">
+    <entry file="file://$PROJECT_DIR$/ex082.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex079.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="43" lean-forward="true" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex080.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="55" lean-forward="true" selection-start-line="19" selection-start-column="55" selection-end-line="19" selection-end-column="55" />
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
@@ -803,18 +642,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ex082.py">
+    <entry file="file://$PROJECT_DIR$/ex080.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="323">
+          <caret line="19" column="55" selection-start-line="19" selection-start-column="55" selection-end-line="19" selection-end-column="55" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ex083.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/ex079.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="43" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/extra - 045 forAndWhile.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/ex078.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex077.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex076.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex084.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="35" column="33" lean-forward="true" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex085.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
