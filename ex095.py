@@ -16,6 +16,7 @@ while True:
     gols.clear()
     jogador['total'] = total
     time.append(jogador.copy())
+    jogador.clear()
     while True:
         opc = str(input('Deseja continuar? [S/N] ')).upper()
         if opc == 'S' or opc == 'N':
@@ -39,7 +40,6 @@ while True:
         break
     else:
         if 0 <= opc2 < len(time):
-
             print(f'-- Levantamento do jogador {time[opc2]["nome"]}')
             for i in range(0, len(time[opc2]["gols"])):
                 print(f'     No jogo {i} fez {time[opc2]["gols"][i]} gols')
